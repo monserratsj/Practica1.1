@@ -1,3 +1,5 @@
+Práctica 1.1
+Nombre de los integrantes del equipo
 Mompin Beristain Ana Fernanda (ay1309)
 Sánchez Juárez Monserrat (monserratsj)
 Zamora Ramos Roberto Ángel (rozzamora)
